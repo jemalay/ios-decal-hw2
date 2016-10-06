@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0FE6DAE11DA463AE00B2C830 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242B96FD1D925BDD00C640FA /* ViewController.swift */; };
 		242B96FC1D925BDD00C640FA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242B96FB1D925BDD00C640FA /* AppDelegate.swift */; };
-		242B96FE1D925BDD00C640FA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242B96FD1D925BDD00C640FA /* ViewController.swift */; };
 		242B97031D925BDD00C640FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 242B97021D925BDD00C640FA /* Assets.xcassets */; };
 		242B97061D925BDD00C640FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 242B97041D925BDD00C640FA /* LaunchScreen.storyboard */; };
 		242B97111D925BDD00C640FA /* SwiftCalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242B97101D925BDD00C640FA /* SwiftCalcTests.swift */; };
@@ -317,9 +317,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FE6DAE11DA463AE00B2C830 /* ViewController.swift in Sources */,
 				242B971D1D925C3600C640FA /* ViewExtension.swift in Sources */,
 				242B971F1D92767700C640FA /* BaseExtension.swift in Sources */,
-				242B96FE1D925BDD00C640FA /* ViewController.swift in Sources */,
 				242B96FC1D925BDD00C640FA /* AppDelegate.swift in Sources */,
 				242B97211D927F8400C640FA /* CustomButton.swift in Sources */,
 				24C636751D93A3E4004D5B73 /* Utils.swift in Sources */,
@@ -586,6 +586,7 @@
 				24D85B041D95095800AE8CD8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
